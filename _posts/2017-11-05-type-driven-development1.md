@@ -2,9 +2,7 @@
 layout: post
 title:  "Type-driven development in Haskell, Idris, Rust and Scala: Introduction"
 date:   2017-11-05 10:00:00
-categories: jekyll blog GitHub-Pages
-banner_image: github-pages.jpg
-comments: true
+comments: false
 author_name: Michael Thomas
 ---
 
